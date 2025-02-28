@@ -7,8 +7,8 @@
 ## Пользование программой
 После запуска программы введите координаты трех точек. Если ввод будет некорректный, то программа завершится с ошибкой.
 ## Установка
-Склонируйте репозиторий > git clone https://github.com/xxaqurm/Lab1
-Скомпилируйте файл: g++ path/to/repository/main.cpp -o main
+Склонируйте репозиторий `git clone https://github.com/xxaqurm/Lab1`
+Скомпилируйте файл: `g++ path/to/repository/main.cpp -o main`
 Запусти программу:
 - main.exe (windows)
 - ./main   (Linux/MacOS)
