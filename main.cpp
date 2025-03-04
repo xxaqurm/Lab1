@@ -29,6 +29,5 @@ int main(void) {
 	cout << "Площадь равна: " << fixed << setprecision(2) << area << endl;
         if (isIsosceles) cout << "Также, треугольник является равнобедренным." << endl;
         else cout << "Также, треугольник не является равнобедренным." << endl;
-
         return 0;
 }
